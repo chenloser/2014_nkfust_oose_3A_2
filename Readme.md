@@ -34,3 +34,4 @@ How:  打開美食地圖的網頁即可執行。
 
 非功能性需求:可靠性、可用性。
 ###詳細描述專題的內容(含圖表)###
+使用工具OR功能: javascript,phonegap,google map API
