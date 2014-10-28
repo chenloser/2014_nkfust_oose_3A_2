@@ -147,19 +147,20 @@
 
 #<a name="7"/> 使用案例的初步類別圖 #
 ## 使用案例：美食資料更動 ##
-![](http://i.imgur.com/6QsHyep.jpg)
+![](http://i.imgur.com/SOFBt3l.jpg)
 
 ## 使用案例：地區縣市選擇 ##
-![](http://i.imgur.com/OdUJoKs.jpg)
+![](http://i.imgur.com/ivDDICT.jpg)
 
 ## 使用案例：查詢美食地點 ##
-![](http://i.imgur.com/2McusTq.jpg)
+![](http://i.imgur.com/zlgap5s.jpg)
 
 ## 使用案例：路徑分析 ##
-![](http://i.imgur.com/y0WxE1Y.jpg)
+![](http://i.imgur.com/WfWHkdL.jpg)
 
 # 整個系統例的初步類別圖 #
-![](http://i.imgur.com/eqrecYr.jpg)
+![](http://i.imgur.com/2QXEeNC.jpg)
+
 
 
 #<a name="8"/>使用案例主要成功情節之英文名稱事件對應#
