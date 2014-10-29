@@ -190,12 +190,13 @@
 
 #<a name="10"/>使用案例之系統循序圖#
 ##美食資料更動##
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744688_875475382477621_758084392_n.jpg?oh=48b8cc741787fed7963b7fbe377a04ed&oe=544A38B8&__gda__=1414093541_6dbba428747b68526dc33e7c59947c31)
+![](http://i.imgur.com/AdodkzR.jpg)
 ##地區縣市選擇##
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10744752_875475619144264_379798260_n.jpg?oh=1f0cb5022a2a6cc680bea931b1e2526b&oe=544A3E2A&__gda__=1414087351_f602d35b30186e87d5ccf41fc29e3105)
+![](http://i.imgur.com/v8iLSlk.jpg)
 ##查詢美食地點##
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10736097_875476235810869_1306044382_n.jpg?oh=e8bd6b24ed40e7f6954e74a24306af68&oe=544A36A0&__gda__=1414148400_83e2d4493f6946e7f4d9cdda6b5d1769)
+![](http://i.imgur.com/xDZp9Rx.jpg)
 ## 路徑分析 ##
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10743563_875476942477465_1185499395_n.jpg?oh=9bd9e7624677729854c9e0a6042a3dee&oe=5449316E&__gda__=1414094654_26115320caa11697ba7a1066a906197a)
+![](http://i.imgur.com/EuWjqqH.jpg)
+
 
 
