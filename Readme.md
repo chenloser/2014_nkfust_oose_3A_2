@@ -166,6 +166,7 @@
 #<a name="8"/>使用案例主要成功情節之英文名稱事件對應#
 ##美食資料更動##
 ![](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10734164_463924020412034_4415443984984421406_n.jpg?oh=2dd6ced76b8b18164978c1fc5d73dbe4&oe=54EA9F43&__gda__=1424454907_d9959e864e673e41e63fdb5f6d3dd25a)
+
 ![](https://scontent-a.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1800492_463924017078701_6520928117285934790_n.jpg?oh=57b8d07b7406acba4d8008db6bfe02e5&oe=54F8A016)
 
 ##地區縣市選擇##
