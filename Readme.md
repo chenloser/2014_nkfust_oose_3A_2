@@ -58,7 +58,7 @@
 
 
 #<a name="3"/> 美食地圖使用案例圖 #
-![](http://i.imgur.com/AYBETXD.jpg)
+![](http://i.imgur.com/nDkPUFI.jpg)
 
 
 #<a name="4"/>個別使用案例#
