@@ -47,41 +47,32 @@
 
 
 #<a name="1"/> 利害關係人 #
-|利害關係人(參予者)|目標|
-|--------------------|--------------------|
-|美食顧問|‧確保網頁及資料庫中資料的正確性。|
-|‧加入新的美食資料到網頁內容中。|
-|一般使用者|2.地區縣市選擇|
-
-
+![](http://i.imgur.com/Q8HptnT.jpg)
 
 ##<a name="2"/>事件及使用案例表##
 |事件名稱|使用案例名稱|
 |:--------------------:|:--------------------:|
 |1.對美食資料做新增.修改.刪除|1.美食資料更動|
-|2.查詢各縣市的美食資訊|2.地區縣市選擇|
-|3.查詢使用者及各地區的美食位置|3.查詢美食地點|
-|4.獲得拜訪各個美食地點的最佳路徑|4.路徑分析|
+|2.查詢使用者及各地區的美食位置|2.查詢美食地點|
+|3.獲得拜訪各個美食地點的最佳路徑|3.路徑分析|
 
 
 #<a name="3"/> 美食地圖使用案例圖 #
-![](http://i.imgur.com/uwGVHak.jpg)
+![](http://i.imgur.com/AYBETXD.jpg)
 
 
 #<a name="4"/>個別使用案例#
-![](http://i.imgur.com/Rur4SUP.jpg)
 
-![](http://i.imgur.com/jcpfqO2.jpg)
-
-![](http://i.imgur.com/6dGkA14.jpg)
-
-![](http://i.imgur.com/EE9UmRC.jpg)
+##美食資料更動##
+![](http://i.imgur.com/fxDYqXB.jpg)
+##查詢美食地點##
+![](http://i.imgur.com/2SiXT4f.jpg)
+## 路徑分析 ##
+![](http://i.imgur.com/3h0FyC9.jpg)
 
 #<a name="5"/>個別使用案例圖#
 ##美食資料更動##
-![](http://i.imgur.com/pL9Ulfj.jpg)
-##地區縣市選擇##
-![](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/v/t34.0-12/10719284_455745554563214_642063535_n.jpg?oh=bebe350fcbfecc52b2a668e833403ccf&oe=5452A621&__gda__=1414754071_b13bad47575f52d2453da69506fed653)
+![](http://i.imgur.com/fn1Mqch.jpg)
 ##查詢美食地點##
 ![](http://i.imgur.com/lTDhlKM.jpg)
 ## 路徑分析 ##
