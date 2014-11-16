@@ -139,7 +139,6 @@
 |起始點|路徑判斷的起始點，為路徑地圖的屬性。|否|
 |選擇點|美食清單所選擇的路徑判斷中須經過的個點，為路徑地圖的屬性。|否|
 
-
 #<a name="7"/> 使用案例的初步類別圖 #
 # 使用案例：登入 #
 ![](http://i.imgur.com/AsFkHU0.jpg)
@@ -151,23 +150,24 @@
 
 # 使用案例：查詢美食清單 #
 ![](http://i.imgur.com/hFB747r.jpg)
-![](http://i.imgur.com/jr7mU6o.jpg)
+![](http://i.imgur.com/9vFjQHq.jpg)
 
 # 使用案例：路徑分析 #
 ![](http://i.imgur.com/AsxTG0y.jpg)
-![](http://i.imgur.com/4sN3wM3.jpg)
+![](http://i.imgur.com/VKTdy79.jpg)
 
 # 整個系統例的初步類別圖 #
 ## Boundary ##
-![](http://i.imgur.com/x8gW5W8.jpg)
+![](http://i.imgur.com/P1rgvNs.jpg)
 
 ## Control ##
-![](http://i.imgur.com/gNhbMaQ.jpg)
+![](http://i.imgur.com/yglcu10.jpg)
 
 ## Entity ##
-![](http://i.imgur.com/77xNq60.jpg)
+![](http://i.imgur.com/xM9as36.jpg)
 
 ![](http://i.imgur.com/evoYzxT.jpg)
+
 
 
 #<a name="8"/>使用案例主要成功情節之英文名稱事件對應#
