@@ -171,8 +171,11 @@
 
 
 #<a name="8"/>使用案例主要成功情節之英文名稱事件對應#
+##登入##
+![](http://i.imgur.com/iRFcHtO.jpg)
+
 ##美食資料更動##
-![](http://i.imgur.com/ITTP2Rv.jpg)
+![](http://i.imgur.com/kqZ0wjI.jpg)
 
 ##查詢美食清單##
 ![](http://i.imgur.com/4mN5NfA.jpg)
@@ -182,8 +185,11 @@
 
 
 #<a name="9"/>名稱事件之合約#
+##登入##
+![](http://i.imgur.com/QJL8VJQ.jpg)
+
 ##美食資料更動##
-![](http://i.imgur.com/15mhfd2.jpg)
+![](http://i.imgur.com/fuAAaUc.jpg)
 
 ##查詢美食清單##
 ![](http://i.imgur.com/r46sgfA.jpg)
