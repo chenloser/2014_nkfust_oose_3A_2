@@ -64,9 +64,9 @@
 
 #<a name="4"/>個別使用案例#
 ##登入##
-
+![](http://i.imgur.com/IHT1eyG.jpg)
 ##美食資料更動##
-![](http://i.imgur.com/7ReAk4R.jpg)
+![](http://i.imgur.com/AEIrI5e.jpg)
 ##查詢美食清單##
 ![](http://i.imgur.com/vidEGk6.jpg)
 ## 路徑分析 ##
