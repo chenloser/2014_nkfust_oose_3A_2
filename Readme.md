@@ -71,12 +71,17 @@
 ![](http://i.imgur.com/ZOltg9s.jpg)
 
 #<a name="5"/>個別使用案例圖#
+##登入##
+![](http://i.imgur.com/VJIfoYe.jpg)
+
 ##美食資料更動##
-![](http://i.imgur.com/9FvFB3q.jpg)
+![](http://i.imgur.com/4daHaUh.jpg)
+
 ##查詢美食清單##
-![](http://i.imgur.com/sHqpSrs.jpg)
+![](http://i.imgur.com/RvUOALD.jpg)
+
 ## 路徑分析 ##
-![](http://i.imgur.com/LfXro0V.jpg)
+![](http://i.imgur.com/a6xZjQx.jpg)
 
 
 #<a name="6"/>使用案例的名詞與概念類別列舉表#
