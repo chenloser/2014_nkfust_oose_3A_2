@@ -143,11 +143,11 @@
 #<a name="7"/> 使用案例的初步類別圖 #
 # 使用案例：登入 #
 ![](http://i.imgur.com/AsFkHU0.jpg)
-![](http://i.imgur.com/I3mPCTP.jpg)
+![](http://i.imgur.com/NqTr2QX.jpg)
 
 # 使用案例：美食資料更動 #
 ![](http://i.imgur.com/Q9pITuz.jpg)
-![](http://i.imgur.com/HqJiuLq.jpg)
+![](http://i.imgur.com/xQdTDCy.jpg)
 
 # 使用案例：查詢美食清單 #
 ![](http://i.imgur.com/hFB747r.jpg)
