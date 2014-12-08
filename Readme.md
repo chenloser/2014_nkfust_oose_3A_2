@@ -141,7 +141,7 @@
 
 #<a name="7"/> 使用案例的初步類別圖 #
 # 使用案例：登入 #
-![](http://i.imgur.com/AsFkHU0.jpg)
+![](http://i.imgur.com/yB7zled.jpg)
 ![](http://i.imgur.com/NqTr2QX.jpg)
 
 # 使用案例：美食資料更動 #
@@ -149,7 +149,7 @@
 ![](http://i.imgur.com/xQdTDCy.jpg)
 
 # 使用案例：查詢美食清單 #
-![](http://i.imgur.com/hFB747r.jpg)
+![](http://i.imgur.com/NPNI22I.jpg)
 ![](http://i.imgur.com/9vFjQHq.jpg)
 
 # 使用案例：路徑分析 #
@@ -166,7 +166,7 @@
 ## Entity ##
 ![](http://i.imgur.com/xM9as36.jpg)
 
-![](http://i.imgur.com/evoYzxT.jpg)
+![](http://i.imgur.com/u81Hi8c.jpg)
 
 
 
@@ -198,12 +198,14 @@
 ![](http://i.imgur.com/TZvvKMG.jpg)
 
 #<a name="10"/>使用案例之系統循序圖#
+##登入##
+![](http://i.imgur.com/OBdkafk.jpg)
 ##美食資料更動##
-![](http://i.imgur.com/gQyey4s.jpg)
+![](http://i.imgur.com/uqrw4I1.jpg)
 ##查詢美食清單##
-![](http://i.imgur.com/d35jiR2.jpg)
+![](http://i.imgur.com/UttFYvc.jpg)
 ## 路徑分析 ##
-![](http://i.imgur.com/Oaav6xR.jpg)
+![](http://i.imgur.com/OSTmqJ9.jpg)
 
 
 
