@@ -149,8 +149,8 @@
 ![](http://i.imgur.com/xQdTDCy.jpg)
 
 # 使用案例：查詢美食清單 #
-![](http://i.imgur.com/NPNI22I.jpg)
-![](http://i.imgur.com/9vFjQHq.jpg)
+![](http://i.imgur.com/4jAsL05.jpg)
+![](http://i.imgur.com/NA76Fl8.jpg)
 
 # 使用案例：路徑分析 #
 ![](http://i.imgur.com/AsxTG0y.jpg)
@@ -164,9 +164,9 @@
 ![](http://i.imgur.com/yglcu10.jpg)
 
 ## Entity ##
-![](http://i.imgur.com/xM9as36.jpg)
+![](http://i.imgur.com/6tdeHj9.jpg)
 
-![](http://i.imgur.com/u81Hi8c.jpg)
+![](http://i.imgur.com/UcoAgU3.jpg)
 
 
 
