@@ -1,0 +1,98 @@
+a.btn_county {
+	color: #4D2078;
+	padding: 2px;
+	background-color: #EEEBFF;
+	text-align: center;
+	border: #A498BD;
+	border-style: outset;
+	border-width: 2px;
+	text-decoration: none;
+}
+a:hover.btn_county {
+	border-right: #605080 1px outset;
+	padding-right: 2px;
+	border-top: #605080 1px outset;
+	padding-left: 2px;
+	padding-bottom: 2px;
+	border-left: #605080 1px outset;
+	padding-top: 2px;
+	border-bottom: #605080 1px outset;
+	background-color: #BDAAE2;
+	text-align: center;
+}
+a.nowP {
+	color: #EEE;
+	font-family: "標楷體";
+	font-size: 18px;
+	text-decoration: none;
+}
+a:hover.nowP {
+	text-decoration: underline;
+}
+a.section {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgb(30, 20, 50);
+}
+a:hover.section {
+	text-decoration: underline;
+	color: #00F;
+}
+.Ttext {
+	color: #FFF;
+	font-family: "標楷體";
+	font-size: 18px;
+}
+#wrap {
+	width: 100%;
+	display: table;
+}
+#Btop {
+	background: #444044;
+	width: 100%;
+	height: 35px;
+	display: table-cell;
+	vertical-align: middle;
+}
+#Asec {
+	width: 25%;
+	float: left;
+}
+#Bsec {
+	width: 667px;
+	height: 100%;
+	float: left;
+	background: rgba(255, 255, 255, 1);
+	padding: 0 0 0 10;
+}
+#Csec {
+	float: left;
+}
+#left {
+	position: fixed;
+	top: 111px;
+	left: -258px;
+	width: 333px;
+	height: 480px;
+}
+#city, #trigger_btn {
+	background: rgb(255, 255, 255);
+	-moz-box-shadow: 6px 5px 5px 2px #555;
+	-webkit-box-shadow: 6px 5px 5px 2px #555;
+	box-shadow: 6px 5px 5px 2px #555;
+}
+#city {
+	width: 250px;
+	height: 100%;
+	float: left;
+}
+#trigger_btn {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 40px;
+	height: 140px;
+	border-radius: 0 8 8 0;
+	float: left;
+}

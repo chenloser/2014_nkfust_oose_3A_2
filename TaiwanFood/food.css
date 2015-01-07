@@ -1,0 +1,22 @@
+#Main_ {
+	
+}
+#Map_ {
+	background: #FFF;
+	width: 750px;
+	height: 600px;
+	margin: 10 10 10 15;
+	float: left;
+}
+
+#user_ {
+	background: #EEE;
+	width: 350px;
+	height: 600px;
+	margin: 10 15 10 10;
+	float: left;
+}
+
+#where_, #foodOption, #result_ {
+	margin: 10px;
+}

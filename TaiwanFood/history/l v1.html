@@ -1,0 +1,214 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>高雄市</title>
+	<style type="text/css">
+	a.btn_county {
+		color: #4D2078; 
+		padding: 2px; 
+		background-color:#EEEBFF; 
+		text-align: center;
+		border: #A498BD; 
+		border-style: outset; 
+		border-width: 2px;
+		text-decoration: none;
+	}
+	a:hover.btn_county { 
+		border-right: #605080 1px outset; 
+		padding-right: 2px; 
+		border-top: #605080 1px outset; 
+		padding-left: 2px; 
+		padding-bottom: 2px;
+		border-left: #605080 1px outset; 
+		padding-top: 2px; 
+		border-bottom: #605080 1px outset;
+		background-color:#BDAAE2; 
+		text-align: center;
+	} 
+	#left {
+		position: fixed;
+		top: 111px;
+		left: -258px;
+		width: 333px;
+		height: 480px;
+	}
+	#city, #trigger_btn {
+		background: rgb(255,255,255);
+		-moz-box-shadow: 6px 5px 5px 2px #555;
+		-webkit-box-shadow: 6px 5px 5px 2px #555;
+		box-shadow: 6px 5px 5px 2px #555;
+	}
+	#city {
+		width: 250px;
+		height: 100%;
+		float: left;
+	}
+	#trigger_btn {
+		position: relative;
+		top: 0px;
+		left: 0px;
+		width: 40px;
+		height: 140px;
+		border-radius: 0 8 8 0;
+		float: left;
+	}
+	#Bmain {
+		background: rgba(255,255,255,1);
+	}
+	</style>
+	<script type="text/javascript">
+	var timer = null;
+	var leftP = -258;
+	function stopTimer() {
+		clearTimeout(timer);
+	}
+	function trigger_open() {
+		stopTimer();
+		if(leftP < 0) {
+			leftP+= 6;
+			document.getElementById("left").style.left = leftP;
+			timer = setTimeout("trigger_open()",2);
+		}
+		if(leftP >= 0) {
+			stopTimer();
+		}
+	}
+	function trigger_close() {
+		stopTimer();
+		if(leftP > -258) {
+			leftP-= 6;
+			document.getElementById("left").style.left = leftP;
+			timer = setTimeout("trigger_close()",2);
+		}
+		if(leftP <= -258) {
+			stopTimer();
+		}
+	}
+	</script>
+</head>
+<body style="margin:0px;background:rgb(0,0,0);">
+	<table border="0" style="width:1000px;">
+		<tr>
+			<td style="width:333px">
+				<div id="left">
+					<div id="city" onmouseover="trigger_open()" onmouseout="trigger_close()">
+						<table border="0" style="width:80%;margin-left:auto;margin-right:auto;margin-top:12px;text-align:center;">
+							<tr>
+								<th colspan="2" style="font-size:16pt">台灣縣市一覽表</th>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">基隆市</a></td>
+								<td><a class="btn_county" href="">台北市</a></td>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">新北市</a></td>
+								<td><a class="btn_county" href="">桃園縣市</a></td>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">新竹縣市</a></td>
+								<td><a class="btn_county" href="">苗栗縣</a></td>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">台中市</a></td>
+								<td><a class="btn_county" href="">彰化縣</a></td>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">雲林縣</a></td>
+								<td><a class="btn_county" href="">嘉義縣市</a></td>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">台南市</a></td>
+								<td><a class="btn_county" href="l.html">高雄市</a></td>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">屏東縣</a></td>
+								<td><a class="btn_county" href="">台東縣</a></td>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">花蓮縣</a></td>
+								<td><a class="btn_county" href="">宜蘭縣</a></td>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">南投縣</a></td>
+								<td><a class="btn_county" href="">連江縣</a></td>
+							</tr>
+							<tr style="height:35px;">
+								<td><a class="btn_county" href="">金門縣</a></td>
+								<td><a class="btn_county" href="">澎湖縣</a></td>
+							</tr>
+						</table>
+					</div>
+					<div id="trigger_btn" onmouseover="trigger_open()" onmouseout="trigger_close()">
+						<div style="margin:auto;text-align:center;line-height:20px"><b></br>台</br>灣</br>縣</br>市</b>
+						</div>
+					</div>
+				</div>
+			</td>
+			<td style="width:667px">
+				<div id="Bmain">
+					<h1>高雄市</h1>
+					<hr>
+					<table>
+						<tr style="height:35px;">
+							<td style="width:18%;"><a href="">鹽埕區</a></td>
+							<td style="width:18%;"><a href="">鼓山區</a></td>
+							<td style="width:18%;"><a href="">左營區</a></td>
+							<td style="width:18%;"><a href="">楠梓區</a></td>
+							<td style="width:18%;"><a href="">三民區</a></td>
+							<td style="width:18%;"><a href="">新興區</a></td>
+						</tr>
+						<tr style="height:35px;">
+							<td><a href="">前金區</a></td>
+							<td><a href="">苓雅區</a></td>
+							<td><a href="">前鎮區</a></td>
+							<td><a href="">旗津區</a></td>
+							<td><a href="">小港區</a></td>
+							<td><a href="">鳳山區</a></td>
+						</tr>
+						<tr style="height:35px;">
+							<td><a href="">林園區</a></td>
+							<td><a href="">大寮區</a></td>
+							<td><a href="">大樹區</a></td>
+							<td><a href="">大社區</a></td>
+							<td><a href="">仁武區</a></td>
+							<td><a href="">鳥松區</a></td>
+						</tr>
+						<tr style="height:35px;">
+							<td><a href="">岡山區</a></td>
+							<td><a href="">橋頭區</a></td>
+							<td><a href="">燕巢區</a></td>
+							<td><a href="">田寮區</a></td>
+							<td><a href="">阿連區</a></td>
+							<td><a href="">路竹區</a></td>
+						</tr>
+						<tr style="height:35px;">
+							<td><a href="">湖內區</a></td>
+							<td><a href="">茄萣區</a></td>
+							<td><a href="">永安區</a></td>
+							<td><a href="">彌陀區</a></td>
+							<td><a href="">梓官區</a></td>
+							<td><a href="">旗山區</a></td>
+						</tr>
+						<tr style="height:35px;">
+							<td><a href="">美濃區</a></td>
+							<td><a href="">六龜區</a></td>
+							<td><a href="">甲仙區</a></td>
+							<td><a href="">杉林區</a></td>
+							<td><a href="">內門區</a></td>
+							<td><a href="">茂林區</a></td>
+						</tr>
+						<tr style="height:35px;">
+							<td><a href="">桃園區</a></td>
+							<td><a href="">那瑪夏區</a></td>
+							<td><a href=""></a></td>
+							<td><a href=""></a></td>
+							<td><a href=""></a></td>
+							<td><a href=""></a></td>
+						</tr>
+					</table>
+				</div>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
